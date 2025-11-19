@@ -21,7 +21,7 @@ I’m a passionate **MERN Stack Developer** who loves building clean, modern, an
 ### 🔹 What I'm Doing Right Now  
 - 🚀 Learning **Next.js**  
 - 🎨 Improving skills in **TailwindCSS & UI components**  
-- 🧭 Working on a **tourism website project**  
+- 🧭 Working on a **home delivery website project**  
 - 🌱 Building small full-stack MERN projects  
 
 ---
