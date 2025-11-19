@@ -43,9 +43,10 @@ I’m a passionate **MERN Stack Developer** who loves building clean, modern, an
 
 ## 🔗 Connect With Me  
 <p align="center">
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="YOUR_GITHUB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/swarnali-saha-bristi02/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[YOUR_FACEBOOK_LINK](https://www.facebook.com/swarnali.saha.14606)">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
 </p>
 
 ---
@@ -58,40 +59,30 @@ I’m a passionate **MERN Stack Developer** who loves building clean, modern, an
 
 ---
 
-## 📌 Pinned Repositories (Examples)
-### 🔷 1. **Tourism Website**
-👉 **Overview:** Modern tourism web app with beautiful UI  
-👉 **Tech:** Next.js, React, TailwindCSS  
-👉 **Live:** https://your-live-link.com  
-👉 **Repo:** https://github.com/swarnalisaha/tourism-website  
+## 📌 Pinned Repositories
+### 🔷 1. **Artify Website**
+👉 **Overview:** Modern art web app with beautiful UI  
+👉 **Tech:** Node.js, React, TailwindCSS, Express.js, MongoDB, React Router, Daisy UI 
+👉 **Live:** [https://your-live-link.com](https://artify-client-d71f6.web.app/)  
+👉 **Repo:** [https://github.com/swarnalisaha/tourism-website](https://github.com/SwarnaliSahaBristi/artGallery_client_server.git)  
 
 ---
 
-### 🔷 2. **MERN Authentication System**
-👉 **Overview:** Secure login/register system with JWT  
-👉 **Tech:** React, Node.js, Express.js, MongoDB  
-👉 **Repo:** https://github.com/swarnalisaha/mern-auth  
+### 🔷 2. **Gamehub Website**
+👉 **Overview:** Gamehub is a dynamic gaming website where users can explore popular games, read descriptions, check ratings, and install games.The project demonstrates React skills including routing, context API, Firebase authentication, animations, and responsive design.  
+👉 **Tech:** Node.js, React, TailwindCSS, Express.js, MongoDB, React Router, Daisy UI  
+👉 **Live:** [[https://your-live-link.com](https://game-developer-6675c.web.app/) 
+👉 **Repo:** [https://github.com/swarnalisaha/mern-auth](https://github.com/SwarnaliSahaBristi/game-developer)  
 
 ---
 
-### 🔷 3. **Portfolio Website**
-👉 **Overview:** A personal developer portfolio  
-👉 **Tech:** React, TailwindCSS  
-👉 **Live:** https://your-portfolio.com  
-👉 **Repo:** https://github.com/swarnalisaha/portfolio  
+### 🔷 3. **Hero Website**
+👉 **Overview:** This is a modern, clean, and fully responsive web application deployed on Netlify. It seems designed as a developer’s portfolio or project showcase, built with performance, aesthetics, and usability in mind  
+👉 **Tech:** React, TailwindCSS, React Router, Daisy UI 
+👉 **Live:** [https://your-portfolio.com](https://dashing-sunshine-b1a2fc.netlify.app/)  
+👉 **Repo:** [https://github.com/swarnalisaha/portfolio](https://github.com/SwarnaliSahaBristi/hero-app.git)  
 
 ---
 
-## 📝 Recommended README Structure for Each Project  
-- **Overview** (small intro)  
-- **Screenshot** (1 hero image)  
-- **Tech Stack** (badges/icons)  
-- **Features**  
-- **Dependencies**  
-- **Local setup guide:**  
-  ```bash
-  git clone REPO_LINK
-  npm install
-  npm run dev
 
 
