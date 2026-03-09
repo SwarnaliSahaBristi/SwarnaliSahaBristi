@@ -43,7 +43,9 @@ I’m a passionate **MERN Stack Developer** who loves building clean, modern, an
 
 ## 🔗 Connect With Me  
 <p align="center">
-  <a href="[YOUR_LINKEDIN](www.linkedin.com/in/swarnali-saha-bristi02)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/swarnali-saha-bristi02/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
   <a href="[YOUR_FACEBOOK_LINK](https://www.facebook.com/swarnali.saha.14606)">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
