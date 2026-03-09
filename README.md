@@ -65,7 +65,7 @@ I’m a passionate **MERN Stack Developer** who loves building clean, modern, an
 ### 🔷 1. **Artify Website**
 👉 **Overview:** Modern art web app with beautiful UI  
 👉 **Tech:** Node.js, React, TailwindCSS, Express.js, MongoDB, React Router, Daisy UI 
-👉 **Live:** [https://your-live-link.com](https://artify-client-d71f6.web.app/)  
+👉 **Live:** [https://your-live-link.com](https://artify22.netlify.app/)
 👉 **Repo:** [https://github.com/swarnalisaha/tourism-website](https://github.com/SwarnaliSahaBristi/artGallery_client_server.git)  
 
 ---
