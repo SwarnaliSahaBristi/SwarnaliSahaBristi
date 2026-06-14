@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm <span style="color:#00c3ff;">Swarnali Saha Bristi</span> 👋</h1>
 
 <p align="center">
-  💻 MERN Stack Developer • 🌐 Frontend Enthusiast • 🚀 Learner  
+  💻 Full-Stack Developer • ⚙️ Backend Developer • 🚀 Tech & AI Enthusiast
 </p>
 
 <p align="center">
@@ -16,13 +16,18 @@
 ---
 
 ## 🌼 About Me  
-I’m a passionate **MERN Stack Developer** who loves building clean, modern, and user-friendly web applications. I enjoy exploring new tools, improving UI/UX, and working on real-world projects.
+I'm a passionate Full-Stack Developer with a growing focus on Backend Engineering. I enjoy building scalable APIs, designing databases, and developing secure web applications that solve real-world problems.
 
-### 🔹 What I'm Doing Right Now  
-- 🚀 Learning **Next.js**  
-- 🎨 Improving skills in **TailwindCSS & UI components**  
-- 🧭 Working on a **home delivery website project**  
-- 🌱 Building small full-stack MERN projects  
+Currently, I'm gaining hands-on experience through a backend internship while continuously improving my software development skills.
+
+### 🔹 Currently
+
+- 💼 Working on a Backend Development Internship
+- ⚙️ Developing scalable REST APIs with Node.js, Express.js & TypeScript
+- 🗄️ Designing databases using PostgreSQL, MongoDB & Prisma
+- 🔐 Implementing Authentication, Authorization & Security Best Practices
+- 🚀 Deploying and maintaining production-ready applications
+- 🤖 Exploring AI and its applications in software products  
 
 ---
 
