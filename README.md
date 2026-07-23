@@ -117,7 +117,8 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwarnaliSahaBristi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <!-- API is currently down -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=SwarnaliSahaBristi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarnaliSahaBristi&theme=tokyonight&hide_border=true&background=0D1117" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwarnaliSahaBristi&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
@@ -130,7 +131,8 @@
 
 ## 🏆 **Top Languages**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarnaliSahaBristi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <!-- API is currently down -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarnaliSahaBristi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /> -->
 </div>
 
 
