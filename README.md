@@ -133,35 +133,6 @@
   </a>
 </div>
 
-<!-- Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-## 📌 **Pinned Repositories**
-
-<table align="center">
-  <tr>
-    <td width="33%" align="center">
-      <h3>🎨 Artify Website</h3>
-      <p>Modern art web app with beautiful UI</p>
-      <p><b>Tech:</b> React, Node.js, MongoDB</p>
-      <a href="https://artify22.netlify.app/">🌐 Live</a> | <a href="https://github.com/SwarnaliSahaBristi/artGallery_client_server.git">💻 Repo</a>
-    </td>
-    <td width="33%" align="center">
-      <h3>🎮 Gamehub Website</h3>
-      <p>Dynamic gaming website to explore & install games</p>
-      <p><b>Tech:</b> React, Firebase, TailwindCSS</p>
-      <a href="https://game-developer-6675c.web.app/">🌐 Live</a> | <a href="https://github.com/SwarnaliSahaBristi/game-developer">💻 Repo</a>
-    </td>
-    <td width="33%" align="center">
-      <h3>🦸 Hero Website</h3>
-      <p>Modern and fully responsive portfolio web app</p>
-      <p><b>Tech:</b> React, TailwindCSS, Daisy UI</p>
-      <a href="https://dashing-sunshine-b1a2fc.netlify.app/">🌐 Live</a> | <a href="https://github.com/SwarnaliSahaBristi/hero-app.git">💻 Repo</a>
-    </td>
-  </tr>
-</table>
 
 <!-- Random Quote -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"> **Random Dev Quote:**
