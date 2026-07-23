@@ -1,7 +1,14 @@
-<!-- Beautiful Dynamic Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Swarnali%20Saha%20Bristi&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full-Stack%20%7C%20Backend%20Developer&descSize=20&descAlignY=55" width="100%" alt="Dynamic Banner" />
+  <img src="20260309_0804_image.png" width="100%" alt="Banner">
 </p>
+
+<!-- Title -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Swarnali Saha Bristi</h1></summary>
+  </ul>
+</div>
 
 <!-- Animated Tech Tagline -->
 <p align="center">
@@ -121,11 +128,9 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-## 🏆 **GitHub Trophies**
+## 🏆 **Top Languages**
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SwarnaliSahaBristi&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarnaliSahaBristi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 
