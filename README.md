@@ -17,7 +17,7 @@
 
 <!-- GitHub Profile View Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swarnalisaha&style=flat-square&color=00c3ff" />
+  <img src="https://komarev.com/ghpvc/?username=SwarnaliSahaBristi&style=flat-square&color=00c3ff" />
 </p>
 
 <!-- Divider -->
@@ -115,10 +115,10 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarnalisaha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swarnalisaha&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwarnaliSahaBristi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarnaliSahaBristi&theme=tokyonight&hide_border=true&background=0D1117" />
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swarnalisaha&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwarnaliSahaBristi&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 </div>
 
 <!-- Divider -->
@@ -129,7 +129,7 @@
 ## 🏆 **GitHub Trophies**
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=swarnalisaha&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SwarnaliSahaBristi&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
   </a>
 </div>
 
