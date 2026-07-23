@@ -1,19 +1,14 @@
-<!-- Banner -->
+<!-- Beautiful Dynamic Banner -->
 <p align="center">
-  <img src="20260309_0804_image.png" width="100%" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Swarnali%20Saha%20Bristi&fontSize=70&fontAlignY=35&animation=twinkling&desc=Full-Stack%20%7C%20Backend%20Developer&descSize=20&descAlignY=55" width="100%" alt="Dynamic Banner" />
 </p>
 
-<!-- Title -->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Swarnali Saha Bristi</h1></summary>
-    <br/>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=00c3ff&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+Developer;Tech+%26+AI+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
-    </a>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c3ff,100:61DAFB&height=120&section=footer"/>
-  </ul>
-</div>
+<!-- Animated Tech Tagline -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+APIs...;Crafting+Beautiful+Web+Experiences...;Passionate+About+Tech+%26+AI...;Turning+Ideas+Into+Code..." alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- GitHub Profile View Counter -->
 <p align="center">
