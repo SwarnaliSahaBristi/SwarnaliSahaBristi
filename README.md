@@ -31,7 +31,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **About Me**
 
 - 📍 Based in **Narayanganj, Dhaka, Bangladesh**
-- 💼 Currently working on a **Backend Development Internship**
+- 💼 Currently working on a **MERN Stack Development Internship**
 - ⚙️ Developing scalable REST APIs with **Node.js, Express.js & TypeScript**
 - 🗄️ Designing databases using **PostgreSQL, MongoDB & Prisma**
 - 🔐 Implementing **Authentication, Authorization & Security Best Practices**
